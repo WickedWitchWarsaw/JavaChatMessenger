@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaChatMessanger.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaChatMessanger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaChatMessanger_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaChatMessanger_main.iml" group="JavaChatMessanger" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaChatMessanger_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaChatMessanger_test.iml" group="JavaChatMessanger" />
+    </modules>
+  </component>
+</project>
